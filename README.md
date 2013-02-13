@@ -32,4 +32,4 @@ You can create as many message.php type files as you like, just be sensible when
 Contact
 =======
 
-See hamlesh.com for contact info - for help/pointers ask me on twitter (http://twitter.com/hamlesh)
+See http://hamlesh.com for contact info, for help/pointers ask me on twitter (http://twitter.com/hamlesh)
