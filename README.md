@@ -21,7 +21,7 @@ For pointers around using CRON see http://zxv.me/XAWV8w
 
 I have included linkedin.php. which is my scheduled "Are we connected on Linkedin?" post.
 
-DON'T use thie code to spam, the idea behind this is to simplify/automate life, not irritate people.
+DON'T use this code to spam, the idea behind this is to simplify/automate life, not irritate people.
 Be sure to follow the buffer best practise, and keep posts spread out, interesting, and relevant.
 
 As its simple PHP, at some point I may add support for a bank of updates, so linkedin.php would have a 
